@@ -291,7 +291,7 @@ print('Name: Premalatha S   Register Number: 212222230112 ')
 plot_graphs(history, "accuracy")
 plot_graphs(history, "loss")
 ```
-### Name: Premalatha S
+### Name: Prema Latha S
 
 ### Register Number: 212222230112
 
